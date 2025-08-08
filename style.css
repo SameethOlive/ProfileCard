@@ -66,12 +66,12 @@ body{
     color:#333;
 }
 .text-data .name{
-    color: #5e1593;
+    color: #09127c;
     font-size: 22px;
     font-weight: 1000;
 }
 .text-data .job{
-    color: #7f2abc;
+    color: #09127c;
     font-weight: 1000;
 }
 .text-data.job{
